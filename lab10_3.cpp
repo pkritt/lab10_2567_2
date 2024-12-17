@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-#include <cstdlib>
 #include <string>
 #include <fstream>
 #include <cmath>
